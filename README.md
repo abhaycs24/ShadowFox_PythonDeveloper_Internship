@@ -16,13 +16,13 @@ Welcome to my official project repository for the **ShadowFox Python Development
 
 ## 🚀 Detailed Task Breakdown
 
-### 1. Task 1: Beginner Python Operations (`Task_1.ipynb`)
-This module covers fundamental Python syntax, custom logic, dynamic structures, and control flow across 5 distinct operations:
-* **Variables & Formulas:** Implemented real-world mathematical formulas including BMI calculation, Speed computation, Circle Area, and Simple Interest.
-* **Numbers:** Processed numeric data types, decimal formatting, string representation conversions, and specialized number operations.
-* **Data Collections (Lists):** Handled dynamic list operations, element insertions, member deletions, list sorting, and index lookups.
-* **Control Flow (If Conditions):** Developed multi-country lookup mechanisms, city comparison functions, and conditional health/BMI evaluation logic.
-* **Iterative Loops (For Loops):** Utilized for loops for step-by-step counting functions, range iterations, and dynamic dice simulation rules.
+### 1️⃣ Task 1: Beginner Python Operations (`Task_1.ipynb`)
+This module covers fundamental Python syntax, custom logic, dynamic structures, and control flow across 5 distinct operations[cite: 1]:
+* **Variables & Formulas:** Implemented real-world mathematical formulas including BMI calculation, Speed computation, Circle Area, and Simple Interest[cite: 1].
+* **Numbers:** Processed numeric data types, decimal formatting, string representation conversions, and specialized number operations[cite: 1].
+* **Data Collections (Lists):** Handled dynamic list operations, element insertions, member deletions, list sorting, and index lookups[cite: 1].
+* **Control Flow (If Conditions):** Developed multi-country lookup mechanisms, city comparison functions, and conditional health/BMI evaluation logic[cite: 1].
+* **Iterative Loops (For Loops):** Utilized for loops for step-by-step counting functions, range iterations, and dynamic dice simulation rules [cite: 1].
 ---
 
 ### 2️⃣ Task 2: Intermediate Python Applications (`Task_2.ipynb`)
@@ -55,10 +55,10 @@ pip install pandas numpy matplotlib seaborn requests beautifulsoup4
 ## 📂 Repository Structure
 
 ```text
-├── Task_1.ipynb                 # Complete Python basics, logic, and loops
-├── Task_2.ipynb                 # Web scraper & Hangman game implementation
-├── Task_3.ipynb                 # Full exploratory data analysis & visualization
-└── README.md                    # Project documentation
+├── `Task_1.ipynb`                 # Complete Python basics, logic, and loops
+├── `Task_2.ipynb`                 # Web scraper & Hangman game implementation
+├── `Task_3.ipynb`                 # Full exploratory data analysis & visualization
+└── `README.md`                    # Project documentation
 ```
 
 ## 👨‍💻 Author
