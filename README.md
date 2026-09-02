@@ -8,9 +8,9 @@ Welcome to my official project repository for the **ShadowFox Data Science Inter
 
 | Task Level | Module Name | Primary Technologies | File Reference | Status |
 | :--- | :--- | :--- | :--- | :---: |
-| **Task 1** | Beginner Tasks | Python 3, Standard Libraries | `Task_1_Beginner.ipynb` | ✅ Completed |
-| **Task 2** | Intermediate Tasks | BeautifulSoup, Requests, Pandas | `Task_2_Intermediate.ipynb` | ✅ Completed |
-| **Task 3** | Advanced Level (Option 2) | Pandas, NumPy, Matplotlib, Seaborn | `Task_3_Advanced_EDA.ipynb` | ✅ Completed |
+| **Task 1** | Beginner Tasks | Python 3, Standard Libraries | `Task_1.ipynb` | ✅ Completed |
+| **Task 2** | Intermediate Tasks | BeautifulSoup, Requests, Pandas | `Task_2.ipynb` | ✅ Completed |
+| **Task 3** | Advanced Level (Option 2) | Pandas, NumPy, Matplotlib, Seaborn | `Task_3.ipynb` | ✅ Completed |
 
 ---
 
