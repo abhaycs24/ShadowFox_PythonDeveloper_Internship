@@ -1,6 +1,6 @@
 # ShadowFox Python Development Internship Projects
 
-Welcome to my official project repository for the **ShadowFox Data Science Internship Program**. This repository contains all three completed task assignments, covering foundational Python programming, web scraping, game logic, and advanced Exploratory Data Analysis (EDA) with financial modeling.
+Welcome to my official project repository for the **ShadowFox Python Development Internship Program**. This repository contains all three completed task assignments, covering foundational Python programming, web scraping, game logic, and advanced Exploratory Data Analysis (EDA) with financial modeling.
 
 ---
 
@@ -52,12 +52,14 @@ To run these Google Colab / Jupyter notebooks locally, ensure you have Python in
 pip install pandas numpy matplotlib seaborn requests beautifulsoup4'''
 ```
 
-## **📂 Repository Structure**
+## 📂 Repository Structure
 
-├── `Task_1.ipynb`    # Complete Python basics, logic, and loops
-├── `Task_2.ipynb`    # Web scraper & Hangman game implementation
-├── `Task_3.ipynb`    # Full exploratory data analysis & visualization
-└── `README.md`       # Project documentation
+```text
+├── Task_1.ipynb                 # Complete Python basics, logic, and loops
+├── Task_2.ipynb                 # Web scraper & Hangman game implementation
+├── Task_3.ipynb                 # Full exploratory data analysis & visualization
+└── README.md                    # Project documentation
+```
 
 ## **👨‍💻 Author**
 
