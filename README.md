@@ -49,7 +49,7 @@ This module conducts end-to-end Exploratory Data Analysis (EDA) on a custom-buil
 To run these Google Colab / Jupyter notebooks locally, ensure you have Python installed along with the following packages:
 
 ```bash
-pip install pandas numpy matplotlib seaborn requests beautifulsoup4'''
+pip install pandas numpy matplotlib seaborn requests beautifulsoup4
 ```
 
 ## 📂 Repository Structure
@@ -61,7 +61,7 @@ pip install pandas numpy matplotlib seaborn requests beautifulsoup4'''
 └── README.md                    # Project documentation
 ```
 
-## **👨‍💻 Author**
+## 👨‍💻 Author
 
 `Program:` ShadowFox Python Development Internship[cite: 1]
 
