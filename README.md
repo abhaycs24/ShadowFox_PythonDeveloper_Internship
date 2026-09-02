@@ -55,10 +55,9 @@ pip install pandas numpy matplotlib seaborn requests beautifulsoup4'''
 ## **📂 Repository Structure**
 
 ├── `Task_1.ipynb`    # Complete Python basics, logic, and loops
-
-    ├── `Task_2.ipynb`    # Web scraper & Hangman game implementation
+├── `Task_2.ipynb`    # Web scraper & Hangman game implementation
 ├── `Task_3.ipynb`    # Full exploratory data analysis & visualization
-└── `README.md`        # Project documentation
+└── `README.md`       # Project documentation
 
 ## **👨‍💻 Author**
 
