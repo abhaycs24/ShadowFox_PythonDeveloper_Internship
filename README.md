@@ -1,4 +1,4 @@
-# ShadowFox Data Science & Python Internship Projects
+# ShadowFox Python Development Internship Projects
 
 Welcome to my official project repository for the **ShadowFox Data Science Internship Program**. This repository contains all three completed task assignments, covering foundational Python programming, web scraping, game logic, and advanced Exploratory Data Analysis (EDA) with financial modeling.
 
