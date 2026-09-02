@@ -16,13 +16,13 @@ Welcome to my official project repository for the **ShadowFox Python Development
 
 ## 🚀 Detailed Task Breakdown
 
-### 1️⃣ Task 1: Beginner Python Operations (`Task_1.ipynb`)
-This module focuses on fundamental Python syntax, algorithmic problem-solving, custom functions, and control flow structures[cite: 1]:
-* **Variables & Formulas:** Implemented BMI calculations, speed metrics, circle geometry, and simple interest logic[cite: 1].
-* **Data Collections:** Handled dynamic list manipulations, sorting algorithms, and member additions[cite: 1].
-* **Control Flow & Logic:** Built a multi-country lookup utility, city comparison functions, and conditional BMI evaluation logic[cite: 1].
-* **Iterative Loops:** Utilized `for` loops for step-by-step counting and dice simulation rules[cite: 1].
-
+### 1. Task 1: Beginner Python Operations (`Task_1.ipynb`)
+This module covers fundamental Python syntax, custom logic, dynamic structures, and control flow across 5 distinct operations:
+* **Variables & Formulas:** Implemented real-world mathematical formulas including BMI calculation, Speed computation, Circle Area, and Simple Interest.
+* **Numbers:** Processed numeric data types, decimal formatting, string representation conversions, and specialized number operations.
+* **Data Collections (Lists):** Handled dynamic list operations, element insertions, member deletions, list sorting, and index lookups.
+* **Control Flow (If Conditions):** Developed multi-country lookup mechanisms, city comparison functions, and conditional health/BMI evaluation logic.
+* **Iterative Loops (For Loops):** Utilized for loops for step-by-step counting functions, range iterations, and dynamic dice simulation rules.
 ---
 
 ### 2️⃣ Task 2: Intermediate Python Applications (`Task_2.ipynb`)
