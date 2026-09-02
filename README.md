@@ -16,7 +16,7 @@ Welcome to my official project repository for the **ShadowFox Data Science Inter
 
 ## 🚀 Detailed Task Breakdown
 
-### 1️⃣ Task 1: Beginner Python Operations (`Task_1_Beginner.ipynb`)
+### 1️⃣ Task 1: Beginner Python Operations (`Task_1.ipynb`)
 This module focuses on fundamental Python syntax, algorithmic problem-solving, custom functions, and control flow structures[cite: 1]:
 * **Variables & Formulas:** Implemented BMI calculations, speed metrics, circle geometry, and simple interest logic[cite: 1].
 * **Data Collections:** Handled dynamic list manipulations, sorting algorithms, and member additions[cite: 1].
@@ -25,14 +25,14 @@ This module focuses on fundamental Python syntax, algorithmic problem-solving, c
 
 ---
 
-### 2️⃣ Task 2: Intermediate Python Applications (`Task_2_Intermediate.ipynb`)
+### 2️⃣ Task 2: Intermediate Python Applications (`Task_2.ipynb`)
 This module implements real-world programmatic applications spanning web data collection and game architecture[cite: 1]:
 * **Task 2.1 - Web Data Scraper:** Automated live HTTP page retrieval using `requests` and parsed target elements (Quotes, Authors, and Tags) via `BeautifulSoup4` into structured Pandas DataFrames[cite: 1].
 * **Task 2.2 - Interactive Hangman Game:** Developed a terminal-based word guessing game complete with dynamic ASCII visual progress stages, guess trackers, hint systems, and outcome conditions[cite: 1].
 
 ---
 
-### 3️⃣ Task 3: Advanced EDA & Financial Analytics (`Task_3_Advanced_EDA.ipynb`)
+### 3️⃣ Task 3: Advanced EDA & Financial Analytics (`Task_3.ipynb`)
 This module conducts end-to-end Exploratory Data Analysis (EDA) on a custom-built financial and sales performance dataset[cite: 1]:
 * **Dataset Architecture:** Created a multi-year sales dataset tracking `Gross_Sales`, `Net_Sales`, `COGS`, `Freight_Costs`, and `Profit_Loss` across custom Accounting Fiscal Years[cite: 1].
 * **Analytical Research Questions:** Evaluated historical profitability across fiscal years and constructed financial metrics correlation matrices[cite: 1].
