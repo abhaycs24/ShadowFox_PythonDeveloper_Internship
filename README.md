@@ -50,16 +50,17 @@ To run these Google Colab / Jupyter notebooks locally, ensure you have Python in
 
 ```bash
 pip install pandas numpy matplotlib seaborn requests beautifulsoup4'''
+```
 
-## 📂 Repository Structure
+## **📂 Repository Structure**
 
-├── Task_1_Beginner.ipynb        # Complete Python basics, logic, and loops
-├── Task_2_Intermediate.ipynb    # Web scraper & Hangman game implementation
-├── Task_3_Advanced_EDA.ipynb    # Full exploratory data analysis & visualization
-└── README.md                    # Project documentation
+├── `Task_1.ipynb`    # Complete Python basics, logic, and loops
+├── `Task_2.ipynb`    # Web scraper & Hangman game implementation
+├── `Task_3.ipynb`    # Full exploratory data analysis & visualization
+└── `README.md`        # Project documentation
 
-## 👨‍💻 Author
+## **👨‍💻 Author**
 
-Program: ShadowFox Python Development / Data Science Internship[cite: 1]
+`Program:` ShadowFox Python Development / Data Science Internship[cite: 1]
 
-Platform: Google Colab / GitHub[cite: 1]
+`Platform:` Google Colab / GitHub[cite: 1]
